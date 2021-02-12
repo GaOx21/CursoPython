@@ -11,3 +11,6 @@ print(diccionario["Dirección"]["Código Postal"])
 print(diccionario["Dirección"]["Municipio/Alcaldia"])
 print(diccionario["Dirección"]["Estado"])
 print(diccionario["Música"])
+
+print("Claves(Keys):" , diccionario.keys())
+print("Valores(Values):" , diccionario.values())
